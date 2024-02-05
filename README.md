@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/I9ozwEV" data-context="false" ><a href="//imgur.com/a/I9ozwEV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/I9ozwEV' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with ScreenToGif
 
 
